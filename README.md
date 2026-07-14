@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="assets/banner.jpg" width="100%" alt="Ansuman Singh Banner"/>
+<img src="./assets/banner.jpg" width="100%" alt="Ansuman Singh Banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Quality+Analyst+%7C+FinTech+%26+Banking;Test+Automation+%7C+Python+%2B+Playwright;Security+Auditing+%7C+API+Testing+Specialist;Building+Reliable+Software%2C+One+Test+at+a+Time" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Quality+Analyst+%7C+FinTech+%26+Banking;Test+Automation+%7C+Python+%2B+Playwright;Security+%7C+API+Testing;Reliable+Software%2C+One+Test+at+a+Time" alt="Typing SVG"/>
 
 <br/><br/>
 
-<a href="mailto:qa.ansuman@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:sing.ansuman07@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ansumansingh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Ansuman0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://leetcode.com/Ansuman0"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-<a href="resume.pdf">
+<a href="https://github.com/Ansuman0/raw/main/Ansuman_Singh_Resume.pdf">
   <img src="https://img.shields.io/badge/📄_Download_Resume-00D9FF?style=for-the-badge&logoColor=white"/>
 </a>
 
@@ -49,7 +49,7 @@ I'm a **Quality Analyst** with 4+ years of experience engineering quality into h
 
 </td>
 <td width="40%" align="center">
-<img src="assets/coding-animation.gif" width="100%" alt="Coding Animation"/>
+<img src="./assets/coding-animation.gif" width="100%" alt="Coding Animation"/>
 </td>
 </tr>
 </table>
@@ -60,7 +60,7 @@ I'm a **Quality Analyst** with 4+ years of experience engineering quality into h
 
 <div align="center">
 
-<img src="https://leetcode-stats-two-lilac.vercel.app/api?username=Ansuman0&theme=dark" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/Ansuman0?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats"/>
 
 </div>
 
@@ -91,8 +91,6 @@ I'm a **Quality Analyst** with 4+ years of experience engineering quality into h
 <td>SQL & Problem Solving</td>
 </tr>
 </table>
-
-> Update the usernames/links above to match your actual competitive programming profiles.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F1A,100:00D9FF&height=2&section=header"/>
 
@@ -161,7 +159,7 @@ I'm a **Quality Analyst** with 4+ years of experience engineering quality into h
 ## 💼 Experience
 
 ```text
-Quality Analyst                                                      4+ Years
+Quality Analyst                                                      4 Years
 FinTech & Banking Platforms — Payment Gateways · Card Issuance · Crypto-to-Fiat
 
 ├── Designed and built API test automation frameworks (Python, Java, TypeScript)
@@ -190,12 +188,9 @@ FinTech & Banking Platforms — Payment Gateways · Card Issuance · Crypto-to-F
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ansuman0&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&cache_seconds=86400"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ansuman0&theme=tokyonight&hide_border=true"/>
 
 <br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansuman0&layout=compact&theme=tokyonight&hide_border=true&count_private=false&cache_seconds=86400"/>
 
 <br/>
 
@@ -203,18 +198,15 @@ FinTech & Banking Platforms — Payment Gateways · Card Issuance · Crypto-to-F
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ansuman0&theme=tokyonight&row=1&column=7&margin-w=10&no-frame=true"/>
-
 </div>
 
-> **Known issue:** The Top Languages and Trophy widgets above run on the free shared `vercel.app` instance, which is frequently rate-limited and can show a broken placeholder for extended periods (not just brief refreshes) — this has been the case across multiple checks. The Stats and Streak cards tend to be more reliable. If these keep breaking, the permanent fix is to deploy your own free copy on Vercel: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) and [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy#deploy-your-own-instance), then swap the image URLs above to point at your own deployment. Alternatively, remove the Top Languages/Trophy lines entirely and keep only the Stats, Streak, and Activity Graph widgets, which have shown more consistent uptime.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F1A,100:00D9FF&height=2&section=header"/>
 
 ## 🌐 Open Source
 
 <div align="center">
-<img src="https://img.shields.io/badge/View_All_Public_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
+<a href="https://github.com/Ansuman0?tab=repositories"><img src="https://img.shields.io/badge/View_All_Public_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/></a>
 </div>
 
 <br/>
@@ -229,9 +221,9 @@ Contributions and PRs to testing/automation tooling repositories are welcome —
 
 <div align="center">
 
-<a href="mailto:qa.ansuman@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:sing.ansuman07@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ansumansingh"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="resume.pdf"><img src="https://img.shields.io/badge/📄_Download_Resume-00D9FF?style=for-the-badge&logoColor=white"/></a>
+<a href="https://github.com/Ansuman0/raw/main/Ansuman_Singh_Resume.pdf"><img src="https://img.shields.io/badge/📄_Download_Resume-00D9FF?style=for-the-badge&logoColor=white"/></a>
 
 <br/><br/>
 
